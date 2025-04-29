@@ -1,0 +1,10 @@
+---
+name: PlayersCounter
+version: 1.0.0
+
+api: 3.9.8
+main: sheluvmyshe\lectory\Loader
+
+author: sheluvmyshe
+description: This plugin check online from other servers, for MiSoft/Submarine.
+...
